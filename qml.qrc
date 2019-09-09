@@ -1,5 +1,6 @@
 <RCC>
     <qresource prefix="/">
         <file>main.qml</file>
+        <file>images/icons8-image-96.png</file>
     </qresource>
 </RCC>

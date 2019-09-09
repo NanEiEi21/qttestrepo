@@ -49,31 +49,31 @@ Window {
     model: ListModel {
         ListElement {
             name: "Jim Williams"
-            portrait: "file:///home/nanei/Desktop/berry/userboardimages/icons8-image-96"
+            portrait: "qrc:/images/icons8-image-96.png"
         }
         ListElement {
             name: "John Brown"
-            portrait: "file:///home/nanei/Desktop/berry/userboardimages/icons8-image-96.png"
+            portrait: "qrc:/images/icons8-image-96.png"
         }
         ListElement {
             name: "Bill Smyth"
-            portrait: "file:///home/nanei/Desktop/berry/userboardimages/icons8-image-96.png"
+            portrait: "qrc:/images/icons8-image-96.png"
         }
         ListElement {
             name: "Sam Wise"
-            portrait: "file:///home/nanei/Desktop/berry/userboardimages/icons8-image-96.png"
+            portrait: "qrc:/images/icons8-image-96.png"
         }
         ListElement {
             name: "Jasmine"
-            portrait: "file:///home/nanei/Desktop/berry/userboardimages/icons8-image-96.png"
+            portrait: "qrc:/images/icons8-image-96.png"
         }
         ListElement {
             name: "Sally Tan"
-            portrait: "file:///home/nanei/Desktop/berry/userboardimages/icons8-image-96.png"
+            portrait: "qrc:/images/icons8-image-96.png"
         }
         ListElement {
             name: "Alex"
-            portrait: "file:///home/nanei/Desktop/berry/userboardimages/icons8-image-96.png"
+            portrait: "qrc:/images/icons8-image-96.png"
         }
     }
     delegate: dragDelegate
